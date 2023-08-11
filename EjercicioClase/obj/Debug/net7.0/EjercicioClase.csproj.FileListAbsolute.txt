@@ -1,0 +1,17 @@
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/bin/Debug/net7.0/EjercicioClase
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/bin/Debug/net7.0/EjercicioClase.deps.json
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/bin/Debug/net7.0/EjercicioClase.runtimeconfig.json
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/bin/Debug/net7.0/EjercicioClase.dll
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/bin/Debug/net7.0/EjercicioClase.pdb
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/EjercicioClase.csproj.AssemblyReference.cache
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/EjercicioClase.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/EjercicioClase.AssemblyInfoInputs.cache
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/EjercicioClase.AssemblyInfo.cs
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/EjercicioClase.csproj.CoreCompileInputs.cache
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/EjercicioClase.csproj.CopyComplete
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/EjercicioClase.dll
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/refint/EjercicioClase.dll
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/EjercicioClase.pdb
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/EjercicioClase.genruntimeconfig.cache
+/home/apolT01-042/Desktop/A/c#11-08/EjercicioClase/obj/Debug/net7.0/ref/EjercicioClase.dll
